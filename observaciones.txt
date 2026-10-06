@@ -1,0 +1,1 @@
+Observación de la evaluación T2: se practicó el control de cambios mediante Git usando con el Working Directory, Staging Area y commits.
